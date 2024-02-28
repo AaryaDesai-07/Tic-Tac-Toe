@@ -1,4 +1,4 @@
-#Tic-Tac-Toe Game
+# Tic-Tac-Toe Game
 
 This is a classic Tic-Tac-Toe game implemented using HTML, CSS, and JavaScript. It provides a simple yet enjoyable gaming experience where players can compete against each other or against the computer.
 
