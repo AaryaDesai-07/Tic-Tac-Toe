@@ -11,6 +11,7 @@ Single Player Mode: Challenge yourself against an AI opponent. The computer play
 
 Interactive Interface: The user interface is intuitive and easy to use, allowing players to click or tap on the grid to place their symbols and track the progress of the game.
 
+
 How to Play:
 Open the index.html file in your web browser.
 
@@ -19,6 +20,7 @@ Click or tap on an empty cell in the grid to place your symbol (X or O).
 Take turns with your opponent until one player wins or the game ends in a draw.
 
 Enjoy the game and have fun!
+
 
 Technologies Used:
 HTML: Structured the layout and content of the game.
